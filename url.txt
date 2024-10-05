@@ -1,0 +1,7 @@
+http://localhost:8501
+
+Setelah Anda menjalankan perintah 
+
+streamlit run dashboard.py
+
+ Anda dapat membuka browser dan mengunjungi tautan ini untuk mengakses dashboard.
