@@ -1,1 +1,2 @@
-# Dicoding-VisualData
+## run streamlit
+streamlit run dashboard.py
