@@ -8,7 +8,7 @@ import folium
 st.title("Analisis Data Penjualan E-commerce")
 
 # Baca data dari file CSV
-all_df = pd.read_csv("all_df.csv")
+all_df = pd.read_csv("Dashboard/all_df.csv")
 all_df['order_purchase_timestamp'] = pd.to_datetime(all_df['order_purchase_timestamp'])  # Ubah tipe data menjadi timestamp
 
 # Sidebar untuk pilihan analisis
